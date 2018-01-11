@@ -34,7 +34,7 @@
 
 ![image](https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/image1.jpg)
 
-### 1.Note that Data pin 22 is changed to pin 19.
+### 1.Important:Note that Data pin 22 is changed to pin 19.
       ESP32_OLED_webradio/components/audio_renderer/audio_renderer
       ![image](https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/Image8.png)
       
