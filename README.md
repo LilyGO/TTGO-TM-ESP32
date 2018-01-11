@@ -37,6 +37,7 @@
 ### 1.Note that Data pin 22 is changed to pin 19.
       ESP32_OLED_webradio/components/audio_renderer/audio_renderer
       ![image](https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/Image8.png)
+      
 ### 2.make menuconfig
       open buletooth
       ![image](https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/Image9.png)
@@ -44,8 +45,9 @@
       ![image](https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/Image11.png)
       ![image](https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/Image12.png)
       ![image](https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/Image13.png)
-      Finally,Check the settings
+   Finally,Check the settings
       ![image](https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/Image14.png)
+      
 ### 3.make all && make flash
 
 ### In order to prevent accidents, the completion of the compiler above can be directly programmed. Of course, DIY will be more fun
