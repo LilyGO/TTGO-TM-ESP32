@@ -1,5 +1,5 @@
 # TTGO-TM-ESP32
-
+![image](https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/T14%20V1.0.jpg)
 ![image](https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/image3.jpg)
 
 
@@ -8,6 +8,7 @@
 ### ESP_IDF:https://github.com/espressif/esp-idf
 ### PHOTO_DEMO:https://github.com/moononournation/ESP32_BiJin_ToKei
 ### MUSIC_DEMO:https://github.com/kodera2t/ESP32_OLED_webradio
+
 ![image](https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/image1.jpg)
 ![image](https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/image2.jpg)
 
