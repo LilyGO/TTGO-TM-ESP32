@@ -1,11 +1,10 @@
 # TTGO-TM-ESP32
 ![image](https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/T14%20V1.0.jpg)
-![image](https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/image3.jpg)
 
 ## This is an interest project that Mr. Pilnikov has done. Really good. Thank you.
 ![image](https://github.com/LilyGO/Color-Weather-Station-ESP32/blob/master/image/Screenshot_5.png)
 
-https://github.com/LilyGO/Color-Weather-Station-ESP32
+### Color-Weather-Station-ESP32:https://github.com/LilyGO/Color-Weather-Station-ESP32
 
 
 ## Website
