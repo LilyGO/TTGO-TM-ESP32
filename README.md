@@ -1,13 +1,35 @@
 # TTGO-TM-ESP32
+![image](https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/T14%20V1.0.jpg)
 
-![image](https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/image3.jpg)
+## Bluetooth audio
 
+### DEMO:https://github.com/kodera2t/ESP32_OLED_webradio
+
+![image](https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/image1.jpg)
+
+### 1.Upload the program
+
+    Here we need to use ESP FLASH DOWNLOAD TOOL, if you did not download this software. Here is a link:
+    
+http://espressif.com/en/support/download/other-tools
+    
+![image](https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/Screenshot_3.png)
+      
+### 2.Read serial console information
+      
+![image](https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/Screenshot_4.png)
+      
+### 3.Bluetooth pairing && Play music
+
+<img width="270" height="480" src="https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/IMG_20180609_164527.png"/> <img width="270" height="480" src="https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/Screenshot_20180609-164540.png"/>
+
+### Let's enjoy it all!
 
 ## Website
 
 ### ESP_IDF:https://github.com/espressif/esp-idf
-### PHOTO_DEMO:https://github.com/moononournation/ESP32_BiJin_ToKei
-### MUSIC_DEMO:https://github.com/kodera2t/ESP32_OLED_webradio
+### Photo_Demo:https://github.com/moononournation/ESP32_BiJin_ToKei
+
 ![image](https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/image1.jpg)
 ![image](https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/image2.jpg)
 
@@ -26,33 +48,10 @@
 ### East eight districts -- East eight districts
 ![image](https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/image5.jpg)
 
+## This is an interest project that Mr. Pilnikov has done. Really good. Thank you.
+![image](https://github.com/LilyGO/Color-Weather-Station-ESP32/blob/master/image/Screenshot_5.png)
 
-
-## Bluetooth audio
-
-### DEMO:https://github.com/kodera2t/ESP32_OLED_webradio
-
-![image](https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/image1.jpg)
-
-### 1.Important:Note that Data pin 22 is changed to pin 19.
-      ESP32_OLED_webradio/components/audio_renderer/audio_renderer
-      ![image](https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/Image8.png)
-      
-### 2.make menuconfig
-      open buletooth
-      ![image](https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/Image9.png)
-      ![image](https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/Image10.png)
-      ![image](https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/Image11.png)
-      ![image](https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/Image12.png)
-      ![image](https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/Image13.png)
-   Finally,Check the settings
-      ![image](https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/Image14.png)
-      
-### 3.make all && make flash
-
-### In order to prevent accidents, the completion of the compiler above can be directly programmed. Of course, DIY will be more fun
-
-
+### Color-Weather-Station-ESP32:https://github.com/LilyGO/Color-Weather-Station-ESP32
 
 
 
