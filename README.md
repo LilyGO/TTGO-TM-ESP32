@@ -1,7 +1,29 @@
 # TTGO-TM-ESP32
 ![image](https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/T14%20V1.0.jpg)
 
+## Bluetooth audio
 
+### DEMO:https://github.com/kodera2t/ESP32_OLED_webradio
+
+![image](https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/image1.jpg)
+
+### 1.Upload the program
+
+    Here we need to use ESP FLASH DOWNLOAD TOOL, if you did not download this software. Here is a link:
+    
+http://espressif.com/en/support/download/other-tools
+    
+![image](https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/Screenshot_3.png)
+      
+### 2.Read serial console information
+      
+![image](https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/Screenshot_4.png)
+      
+### 3.Bluetooth pairing && Play music
+
+<img width="270" height="480" src="https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/IMG_20180609_164527.png"/> <img width="270" height="480" src="https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/Screenshot_20180609-164540.png"/>
+
+Let's enjoy it all!
 
 ## Website
 
@@ -25,36 +47,6 @@
 
 ### East eight districts -- East eight districts
 ![image](https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/image5.jpg)
-
-
-
-## Bluetooth audio
-
-### DEMO:https://github.com/kodera2t/ESP32_OLED_webradio
-
-![image](https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/image1.jpg)
-
-### 1.Upload the program
-
-    Here we need to use ESP FLASH DOWNLOAD TOOL, if you did not download this software. Here is a link:
-    
-http://espressif.com/en/support/download/other-tools
-    
-![image](https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/Screenshot_3.png)
-      
-### 2.Read serial console information
-      
-![image](https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/Screenshot_4.png)
-      
-### 3.Bluetooth pairing && Play music
-
-![image](https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/IMG_20180609_164527.png)
-
-![image](https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/Screenshot_20180609-164540.png)
-
-
-### In order to prevent accidents, the completion of the compiler above can be directly programmed. Of course, DIY will be more fun
-
 
 ## This is an interest project that Mr. Pilnikov has done. Really good. Thank you.
 ![image](https://github.com/LilyGO/Color-Weather-Station-ESP32/blob/master/image/Screenshot_5.png)
