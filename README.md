@@ -1,4 +1,6 @@
 # TTGO-TM-ESP32
+
+![image](https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/TMV1.0.1.jpg)
 ![image](https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/T14%20V1.0.jpg)
 
 ## Bluetooth audio
